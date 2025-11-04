@@ -32,7 +32,7 @@ class ScoreScreen extends StatelessWidget {
               const SizedBox(height: 30),
 
               Text(
-                'Skor $playerName:',
+                '$playerName',
                 style: const TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
